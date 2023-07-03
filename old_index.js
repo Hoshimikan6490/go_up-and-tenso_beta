@@ -14,8 +14,7 @@ const client = new Client({
   ],
 });
 const prefix = "!";
-const token =
-  "MTA3NTAyODU1OTgyOTE0NzY3MQ.GOZBoa.1xbUA8pAGBvJbtBXmyq2vEse-bthOOT0zgi4lw";
+const token = "";
 
 // botが準備できれば発動され、 上から順に処理される。
 client.on("ready", () => {
